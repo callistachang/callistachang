@@ -1,5 +1,5 @@
 <div align="left">
-  <h1 align="center">Hi 👋, I'm Cal</h1>
+  <h1 align="center">Hi 👋, I'm the next 30 under 30 women in tech</h1>
   <h3 align="center">yeet</h3>
 
   <p> <img src="https://komarev.com/ghpvc/?username=callistachang&label=Profile%20views&color=0e75b6&style=flat" alt="callistachang" /> </p>
