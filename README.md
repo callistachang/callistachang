@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm Cal!</h2>
+<h1 align="center">Hello 👋, I'm Cal!</h1>
 
 ###
 
@@ -50,10 +50,11 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11160295456&unique=yes" alt="spotify latest played" />
+  <img src="https://raw.githubusercontent.com/callistachang/callistachang/output/snake.svg" alt="snek animation" />
 </div>
 
-### 
+###
 
-<br clear="both">
-<img href="https://raw.githubusercontent.com/callistachang/callistachang/output/snake.svg" alt="snake animation" />
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11160295456&unique=yes" alt="spotify latest played" />
+</div>
