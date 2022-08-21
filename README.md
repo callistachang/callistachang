@@ -56,4 +56,4 @@
 ### 
 
 <br clear="both">
-<img href="https://raw.githubusercontent.com/callistachang/callistachang/blob/output/snake.svg" alt="snake animation" />
+<img href="https://raw.githubusercontent.com/callistachang/callistachang/output/snake.svg" alt="snake animation" />
